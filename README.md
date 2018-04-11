@@ -1,3 +1,3 @@
-# Machine-Learning-Projects
+# Data-Science-Projects
 
-This is collection of Machine Learning Projects done by Hanshika Gupta
+This is collection of Data Science & Machine Learning Projects done by Hanshika Gupta
